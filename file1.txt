@@ -1,1 +1,1 @@
-hello maven build
+hello maven build now
